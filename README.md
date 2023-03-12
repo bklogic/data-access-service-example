@@ -36,6 +36,7 @@ Follow the steps below to clone and deploy this application to a remote developm
 - Launch VS Code form the local folder
 - Request and connect to a remote workspace
 - Create and deploy a data source loaded with the `classicmodel` database
+- Update data source name, and application name if desired, in `application.json`
 - Deploy the application into the remote workspace
 
 ## Contribution
