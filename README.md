@@ -3,7 +3,6 @@
 An example data access application to showcase the various simple and complex query, SQL and CRUD services.
 
 ## Data Model
----
 
 The MySQL database used with this example application is the `classicmodels` database for `MySQL Tutorial`. The following is the ER diagram for this database from the [`MySQL Tutorial site`](https://www.mysqltutorial.org/mysql-sample-database.aspx):
 
@@ -11,7 +10,6 @@ The MySQL database used with this example application is the `classicmodels` dat
 
 
 ## Modules
----
 
 ### `tutorial`
 
@@ -30,7 +28,6 @@ SQL service examples from `SQL Service Deep Dive`.
 CRUD service examples from `CRUD Service Deep Dive`.
 
 ## Clone and Deploy Application
----
 
 Follow the steps below to clone and deploy this application to a remote development workspace, 
 
@@ -41,17 +38,15 @@ Follow the steps below to clone and deploy this application to a remote developm
 - Deploy the application into the remote workspace
 
 ## Contribution
----
 
 You are welcome to contribute examples to this repository, or provide any feedback you may have.
 
 ## Project and Documentation Site
----
 
-### Project
+### Project:
 
 https://github.com/bklogic/data-access-service
 
-### Documentation
+### Documentation:
 
 https://docs.backlogic.net
