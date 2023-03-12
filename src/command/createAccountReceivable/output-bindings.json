@@ -1,0 +1,26 @@
+[
+    {
+        "field": "..receivableNumber",
+        "column": "receivableNumber"
+    },
+    {
+        "field": "..receivableDate",
+        "column": "receivableDate"
+    },
+    {
+        "field": "..customerNumber",
+        "column": "customerNumber"
+    },
+    {
+        "field": "..receivableAmount",
+        "column": "receivableAmount"
+    },
+    {
+        "field": "..details..orderNumber",
+        "column": "orderNumber"
+    },
+    {
+        "field": "..details..orderAmount",
+        "column": "orderAmount"
+    }
+]

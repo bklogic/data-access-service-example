@@ -1,0 +1,42 @@
+[
+    {
+        "field": ".customerNumber",
+        "column": "customerNumber"
+    },
+    {
+        "field": ".customerName",
+        "column": "customerName"
+    },
+    {
+        "field": ".contact.firstName",
+        "column": "contactFirstName"
+    },
+    {
+        "field": ".contact.LastName",
+        "column": "contactLastName"
+    },
+    {
+        "field": ".contact.phone",
+        "column": "phone"
+    },
+    {
+        "field": ".address.addressLine1",
+        "column": "addressLine1"
+    },
+    {
+        "field": ".address.addressLine2",
+        "column": "addressLine2"
+    },
+    {
+        "field": ".address.city",
+        "column": "city"
+    },
+    {
+        "field": ".address.state",
+        "column": "state"
+    },
+    {
+        "field": ".address.country",
+        "column": "country"
+    }
+]

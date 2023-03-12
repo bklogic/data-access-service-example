@@ -1,0 +1,42 @@
+[
+    {
+        "field": ".orderNumber",
+        "column": "orderNumber"
+    },
+    {
+        "field": ".orderDate",
+        "column": "orderDate"
+    },
+    {
+        "field": ".requiredDate",
+        "column": "requiredDate"
+    },
+    {
+        "field": ".shippedDate",
+        "column": "shippedDate"
+    },
+    {
+        "field": ".status",
+        "column": "status"
+    },
+    {
+        "field": ".customerNumber",
+        "column": "customerNumber"
+    },
+    {
+        "field": ".orderLines..orderLineNumber",
+        "column": "orderLineNumber"
+    },
+    {
+        "field": ".orderLines..productCode",
+        "column": "productCode"
+    },
+    {
+        "field": ".orderLines..quantityOrdered",
+        "column": "quantityOrdered"
+    },
+    {
+        "field": ".orderLines..priceEach",
+        "column": "priceEach"
+    }
+]

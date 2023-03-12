@@ -1,0 +1,29 @@
+[
+    {
+        "name": "offices",
+        "alias": "o",
+        "object": ".",
+        "rootTable": true,
+        "mainTable": true,
+        "operationIndicator": null,
+        "columns": "./offices.o.columns.json"
+    },
+    {
+        "name": "employees",
+        "alias": "m",
+        "object": ".manager.",
+        "rootTable": false,
+        "mainTable": false,
+        "operationIndicator": null,
+        "columns": "./employees.m.columns.json"
+    },
+    {
+        "name": "employees",
+        "alias": "e",
+        "object": ".employees..",
+        "rootTable": false,
+        "mainTable": true,
+        "operationIndicator": null,
+        "columns": "./employees.e.columns.json"
+    }
+]

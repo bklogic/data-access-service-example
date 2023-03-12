@@ -1,0 +1,11 @@
+[
+    {
+        "name": "customers",
+        "alias": "c",
+        "object": ".",
+        "rootTable": true,
+        "mainTable": true,
+        "operationIndicator": null,
+        "columns": "./customers.c.columns.json"
+    }
+]

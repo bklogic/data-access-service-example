@@ -1,0 +1,10 @@
+{
+    "name": "testGetProductCodesForProductLines",
+    "input": {
+        "productLines": [
+            "Classic Cars",
+            "Trucks and Buses"
+        ]
+    },
+    "comments": "Modify the example test name and input."
+}

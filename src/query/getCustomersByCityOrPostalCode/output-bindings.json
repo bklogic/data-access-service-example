@@ -1,0 +1,22 @@
+[
+    {
+        "field": "..customerNumber",
+        "column": "customerNumber"
+    },
+    {
+        "field": "..customerName",
+        "column": "customerNumber"
+    },
+    {
+        "field": "..address.city",
+        "column": "city"
+    },
+    {
+        "field": "..address.state",
+        "column": "state"
+    },
+    {
+        "field": "..address.postalCode",
+        "column": "postalCode"
+    }
+]

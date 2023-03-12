@@ -1,0 +1,74 @@
+[
+    {
+        "field": "..employeeNumber",
+        "column": "employeeNumber"
+    },
+    {
+        "field": "..lastName",
+        "column": "lastName"
+    },
+    {
+        "field": "..firstName",
+        "column": "firstName"
+    },
+    {
+        "field": "..office.officeCode",
+        "column": "officeCode"
+    },
+    {
+        "field": "..office.city",
+        "column": "city"
+    },
+    {
+        "field": "..office.country",
+        "column": "country"
+    },
+    {
+        "field": "..customers..customerNumber",
+        "column": "customerNumber"
+    },
+    {
+        "field": "..customers..customerName",
+        "column": "customerName"
+    },
+    {
+        "field": "..customers..contact.firstName",
+        "column": "contactFirstName"
+    },
+    {
+        "field": "..customers..contact.LastName",
+        "column": "contactLastName"
+    },
+    {
+        "field": "..customers..contact.phone",
+        "column": "phone"
+    },
+    {
+        "field": "..customers..address.city",
+        "column": "city"
+    },
+    {
+        "field": "..customers..address.state",
+        "column": "lastName"
+    },
+    {
+        "field": "..customers..address.country",
+        "column": "country"
+    },
+    {
+        "field": "..sales..productCode",
+        "column": "productCode"
+    },
+    {
+        "field": "..sales..productName",
+        "column": "productName"
+    },
+    {
+        "field": "..sales..qty",
+        "column": "qty"
+    },
+    {
+        "field": "..sales..dollarAmount",
+        "column": "dollarAmount"
+    }
+]

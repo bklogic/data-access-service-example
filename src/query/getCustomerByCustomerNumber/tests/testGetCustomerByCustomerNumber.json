@@ -1,0 +1,7 @@
+{
+    "name": "testGetCustomerByCustomerNumber",
+    "input": {
+        "customerNumber": 112
+    },
+    "comments": "Modify the example test name and input."
+}

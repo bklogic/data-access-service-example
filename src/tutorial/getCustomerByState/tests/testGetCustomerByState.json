@@ -1,0 +1,7 @@
+{
+    "name": "testGetCustomerByState",
+    "input": {
+        "state": "CA"
+    },
+    "comments": "Modify the example test name and input."
+}

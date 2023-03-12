@@ -1,0 +1,8 @@
+{
+    "name": "testReadProductLinesWithProductName",
+    "input": {
+        "productName": "1968 Ford Mustang"
+    },
+    "operation": "read",
+    "comments": "Modify the example test name and input."
+}

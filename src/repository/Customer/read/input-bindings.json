@@ -1,0 +1,14 @@
+[
+    {
+        "parameter": "city",
+        "field": ".city"
+    },
+    {
+        "parameter": "postalCode",
+        "field": ".postalCode"
+    },
+    {
+        "parameter": "customerNumber",
+        "field": ".customerNumber"
+    }
+]

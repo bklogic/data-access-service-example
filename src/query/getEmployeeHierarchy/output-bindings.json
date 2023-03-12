@@ -1,0 +1,82 @@
+[
+    {
+        "field": "..employeeNumber",
+        "column": "employeeNumber"
+    },
+    {
+        "field": "..firstName",
+        "column": "firstName"
+    },
+    {
+        "field": "..lastName",
+        "column": "lastName"
+    },
+    {
+        "field": "..jobTitle",
+        "column": "jobTitle"
+    },
+    {
+        "field": "..employees..employeeNumber",
+        "column": "eEmployeeNumber"
+    },
+    {
+        "field": "..employees..firstName",
+        "column": "eFirstName"
+    },
+    {
+        "field": "..employees..lastName",
+        "column": "eLastName"
+    },
+    {
+        "field": "..employees..jobTitle",
+        "column": "eJobTitle"
+    },
+    {
+        "field": "..employees..employees..employeeNumber",
+        "column": "eeEmployeeNumber"
+    },
+    {
+        "field": "..employees..employees..firstName",
+        "column": "eeFirstName"
+    },
+    {
+        "field": "..employees..employees..lastName",
+        "column": "eeLastName"
+    },
+    {
+        "field": "..employees..employees..jobTitle",
+        "column": "eeJobTitle"
+    },
+    {
+        "field": "..employees..employees..employees..employeeNumber",
+        "column": "eeeEmployeeNumber"
+    },
+    {
+        "field": "..employees..employees..employees..firstName",
+        "column": "eeeFirstName"
+    },
+    {
+        "field": "..employees..employees..employees..lastName",
+        "column": "eeeLastName"
+    },
+    {
+        "field": "..employees..employees..employees..jobTitle",
+        "column": "eeeJobTitle"
+    },
+    {
+        "field": "..employees..employees..employees..employees..employeeNumber",
+        "column": "eeeeEmployeeNumber"
+    },
+    {
+        "field": "..employees..employees..employees..employees..firstName",
+        "column": "eeeeFirstName"
+    },
+    {
+        "field": "..employees..employees..employees..employees..lastName",
+        "column": "eeeeLastName"
+    },
+    {
+        "field": "..employees..employees..employees..employees..jobTitle",
+        "column": "eeeeJobTitle"
+    }
+]

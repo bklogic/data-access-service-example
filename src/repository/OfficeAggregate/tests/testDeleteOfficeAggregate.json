@@ -1,0 +1,8 @@
+{
+    "name": "testDeleteOfficeAggregate",
+    "input": {
+        "officeCode": "100"
+    },
+    "operation": "delete",
+    "comments": "Modify the example test name and input."
+}

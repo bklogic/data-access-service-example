@@ -1,0 +1,7 @@
+{
+    "name": "testCreateAccountReceivable",
+    "input": {
+        "receivableDate": "2003-12-01T00:00:00.000"
+    },
+    "comments": "Modify the example test name and input."
+}

@@ -1,0 +1,14 @@
+{
+    "name": "testReplenishInventory",
+    "input": [
+        {
+            "productCode": "S10_1678",
+            "qtyToAdd": 1000
+        },
+        {
+            "productCode": "S10_1949",
+            "qtyToAdd": 800
+        }
+    ],
+    "comments": "Modify the example test name and input."
+}

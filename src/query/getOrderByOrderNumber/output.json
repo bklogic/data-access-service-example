@@ -1,0 +1,24 @@
+{
+    "orderNumber": 10103,
+    "orderDate": "2023-01-15T00:00:00.000",
+    "customer": {
+        "customerNumber": 1,
+        "customerName": "Signal Gift Stores",
+        "icon": "base64YmFzZTY0ZXhhbXBsZQ==",
+        "address": {
+            "addressLine1": "8489 Strong St.",
+            "addressLine2": "",
+            "city": "Las Vegas",
+            "state": "NV",
+            "country": "USA",
+            "postalCode": "83030"
+        }
+    },
+    "lines": [{
+        "orderLineNumber": 1,
+        "productCode": "S18_1749",
+        "productName": "1969 Harley Davidson Ultimate Chopper",
+        "qty": 1,
+        "price": 136.00
+    }]
+}

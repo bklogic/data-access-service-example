@@ -1,0 +1,66 @@
+[
+    {
+        "field": "..employeeNumber",
+        "column": "employeeNumber"
+    },
+    {
+        "field": "..firstName",
+        "column": "firstName"
+    },
+    {
+        "field": "..lastName",
+        "column": "lastName"
+    },
+    {
+        "field": "..jobTitle",
+        "column": "jobTitle"
+    },
+    {
+        "field": "..manager.employeeNumber",
+        "column": "mEmployeeNumber"
+    },
+    {
+        "field": "..manager.firstName",
+        "column": "mFirstName"
+    },
+    {
+        "field": "..manager.lastName",
+        "column": "mLastName"
+    },
+    {
+        "field": "..manager.jobTitle",
+        "column": "mJobTitle"
+    },
+    {
+        "field": "..manager.manager.employeeNumber",
+        "column": "mmEmployeeNumber"
+    },
+    {
+        "field": "..manager.manager.firstName",
+        "column": "mmFirstName"
+    },
+    {
+        "field": "..manager.manager.lastName",
+        "column": "mmLastName"
+    },
+    {
+        "field": "..manager.manager.jobTitle",
+        "column": "mmJobTitle"
+    },
+    {
+        "field": "..manager.employees..employeeNumber",
+        "column": "meEmployeeNumber"
+    },
+    {
+        "field": "..manager.employees..firstName",
+        "column": "meFirstName"
+    },
+    {
+        "field": "..manager.employees..lastName",
+        "column": "meLastName"
+    },
+    {
+        "field": "..manager.employees..jobTitle",
+        "column": "meJobTitle"
+    }
+]

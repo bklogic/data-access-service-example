@@ -1,0 +1,11 @@
+[{
+    "customerNumber": 124,
+    "customerName": "Mini Gifts Distributors Ltd.",
+    "phone": "4155551450",
+    "address": {
+        "address": "5677 Strong St.",
+        "city": "San Rafael",
+        "state": "CA",
+        "country": "USA"
+    }
+}]

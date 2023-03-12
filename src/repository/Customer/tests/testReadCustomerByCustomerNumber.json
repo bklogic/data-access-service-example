@@ -1,0 +1,8 @@
+{
+    "name": "testReadCustomerByCustomerNumber",
+    "input": {
+        "customerNumber": 103
+    },
+    "operation": "read",
+    "comments": "Modify the example test name and input."
+}

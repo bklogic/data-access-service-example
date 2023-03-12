@@ -1,0 +1,30 @@
+[
+    {
+        "field": ".customerNumber",
+        "column": "customerNumber"
+    },
+    {
+        "field": ".customerName",
+        "column": "customerName"
+    },
+    {
+        "field": ".phone",
+        "column": "phone"
+    },
+    {
+        "field": ".address.address",
+        "column": "address"
+    },
+    {
+        "field": ".address.city",
+        "column": "city"
+    },
+    {
+        "field": ".address.state",
+        "column": "state"
+    },
+    {
+        "field": ".address.country",
+        "column": "country"
+    }
+]

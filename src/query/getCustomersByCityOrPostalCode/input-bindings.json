@@ -1,0 +1,10 @@
+[
+    {
+        "parameter": "city",
+        "field": ".city"
+    },
+    {
+        "parameter": "postalCode",
+        "field": ".postalCode"
+    }
+]

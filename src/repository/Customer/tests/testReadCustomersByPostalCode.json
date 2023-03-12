@@ -1,0 +1,8 @@
+{
+    "name": "testReadCustomersByPostalCode",
+    "input": {
+        "postalCode": "83030"
+    },
+    "operation": "read",
+    "comments": "Modify the example test name and input."
+}

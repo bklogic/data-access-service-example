@@ -1,0 +1,10 @@
+[
+    {
+        "parameter": "productCode",
+        "field": ".productCode"
+    },
+    {
+        "parameter": "qtyToAdd",
+        "field": ".qtyToAdd"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "parameter": "country",
+        "field": ".country"
+    },
+    {
+        "parameter": "address",
+        "field": ".address"
+    },
+    {
+        "parameter": "city",
+        "field": ".city"
+    },
+    {
+        "parameter": "state",
+        "field": ".state"
+    },
+    {
+        "parameter": "customerNumber",
+        "field": ".customerNumber"
+    }
+]

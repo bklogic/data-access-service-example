@@ -1,0 +1,10 @@
+[
+    {
+        "field": "..productCode",
+        "column": "productCode"
+    },
+    {
+        "field": "..quantityInStock",
+        "column": "quantityInStock"
+    }
+]

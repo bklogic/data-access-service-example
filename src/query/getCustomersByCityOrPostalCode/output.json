@@ -1,0 +1,9 @@
+[{
+    "customerNumber": 1,
+    "customerName": "Land of Toys Inc.",
+    "address": {
+        "city": "NYC",
+        "state": "NY",
+        "postalCode": "90001"
+    }
+}]

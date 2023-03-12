@@ -1,0 +1,11 @@
+[
+    {
+        "name": "offices",
+        "alias": "o",
+        "object": ".",
+        "rootTable": true,
+        "mainTable": true,
+        "operationIndicator": null,
+        "columns": "./offices.o.columns.json"
+    }
+]

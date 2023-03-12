@@ -1,0 +1,15 @@
+{
+    "name": "testCreateOffice",
+    "input": {
+        "officeCode": "10",
+        "address": "100 Market Street",
+        "phone": "+1 650 219 4782",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "postalCode": "94080",
+        "territory": "NA"
+    },
+    "operation": "create",
+    "comments": "Modify the example test name and input."
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "parameter": "productCode",
+        "field": ".productCode"
+    },
+    {
+        "parameter": "qtyToDeduct",
+        "field": ".qtyToDeduct"
+    }
+]

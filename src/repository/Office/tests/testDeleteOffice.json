@@ -1,0 +1,8 @@
+{
+    "name": "testDeleteOffice",
+    "input": {
+        "officeCode": "10"
+    },
+    "operation": "delete",
+    "comments": "Modify the example test name and input."
+}

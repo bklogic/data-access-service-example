@@ -1,0 +1,10 @@
+[
+    {
+        "parameter": "orderNumber",
+        "field": ".orderNumber"
+    },
+    {
+        "parameter": "customerNumber",
+        "field": ".customerNumber"
+    }
+]

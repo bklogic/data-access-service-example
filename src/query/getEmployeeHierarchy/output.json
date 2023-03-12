@@ -1,0 +1,32 @@
+[{
+    "employeeNumber": 1,
+    "firstName": "John",
+    "lastName": "Smith",
+    "jobTitle": "President",
+    "employees": [{
+        "employeeNumber": 1,
+        "firstName": "John",
+        "lastName": "Smith",
+        "jobTitle": "President",
+        "employees": [{
+            "employeeNumber": 1,
+            "firstName": "John",
+            "lastName": "Smith",
+            "jobTitle": "President",
+            "employees": [{
+                "employeeNumber": 1,
+                "firstName": "John",
+                "lastName": "Smith",
+                "jobTitle": "President",
+                "employees": [{
+                    "employeeNumber": 1,
+                    "firstName": "John",
+                    "lastName": "Smith",
+                    "jobTitle": "President",
+                    "employees": [{
+                    }]
+                }]
+            }]
+        }]
+    }]
+}]

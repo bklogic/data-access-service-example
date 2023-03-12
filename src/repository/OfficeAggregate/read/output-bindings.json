@@ -1,0 +1,86 @@
+[
+    {
+        "field": ".officeCode",
+        "column": "officeCode"
+    },
+    {
+        "field": ".name",
+        "column": "state"
+    },
+    {
+        "field": ".address.city",
+        "column": "city"
+    },
+    {
+        "field": ".address.phone",
+        "column": "phone"
+    },
+    {
+        "field": ".address.address",
+        "column": "addressLine1"
+    },
+    {
+        "field": ".address.state",
+        "column": "state"
+    },
+    {
+        "field": ".address.country",
+        "column": "country"
+    },
+    {
+        "field": ".address.postalCode",
+        "column": "postalCode"
+    },
+    {
+        "field": ".manager.employeeNumber",
+        "column": "mEmployeeNumber"
+    },
+    {
+        "field": ".manager.firstName",
+        "column": "mFirstName"
+    },
+    {
+        "field": ".manager.lastName",
+        "column": "mLastName"
+    },
+    {
+        "field": ".manager.jobTitle",
+        "column": "mJobTitle"
+    },
+    {
+        "field": ".manager.extension",
+        "column": "mExtension"
+    },
+    {
+        "field": ".manager.email",
+        "column": "mEmail"
+    },
+    {
+        "field": ".employees..employeeNumber",
+        "column": "eEmployeeNumber"
+    },
+    {
+        "field": ".employees..firstName",
+        "column": "eFirstName"
+    },
+    {
+        "field": ".employees..lastName",
+        "column": "eLastName"
+    },
+    {
+        "field": ".employees..jobTitle",
+        "column": "eJobTitle"
+    },
+    {
+        "field": ".employees..extension",
+        "column": "eExtension"
+    },
+    {
+        "field": ".employees..email",
+        "column": "eEmail"
+    },
+    {
+        "field": ".employees..reportsTo",
+        "column": "reportsTo"
+    }
+]

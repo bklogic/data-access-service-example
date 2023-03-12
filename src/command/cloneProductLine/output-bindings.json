@@ -1,0 +1,22 @@
+[
+    {
+        "field": ".productLine",
+        "column": "productLine"
+    },
+    {
+        "field": ".description",
+        "column": "textDescription"
+    },
+    {
+        "field": ".products..productCode",
+        "column": "productCode"
+    },
+    {
+        "field": ".products..productName",
+        "column": "productName"
+    },
+    {
+        "field": ".products..productVendor",
+        "column": "productVendor"
+    }
+]

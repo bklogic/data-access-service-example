@@ -1,0 +1,10 @@
+[
+    {
+        "parameter": "country",
+        "field": ".country"
+    },
+    {
+        "parameter": "officeCode",
+        "field": ".officeCode"
+    }
+]

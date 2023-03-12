@@ -1,0 +1,7 @@
+{
+    "name": "testGetCustomersByPostalCode",
+    "input": {
+        "postalCode": "91003"
+    },
+    "comments": "Modify the example test name and input."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "myApp",
+    "description": "application. Specify data source and optionally schema name.",
+    "dbType": "mysql",
+    "dataSource": "mydb",
+    "schema": "trydb4"
+}

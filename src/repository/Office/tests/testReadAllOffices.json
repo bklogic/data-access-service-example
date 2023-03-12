@@ -1,0 +1,7 @@
+{
+    "name": "testReadAllOffices",
+    "input": {
+    },
+    "operation": "read",
+    "comments": "Modify the example test name and input."
+}

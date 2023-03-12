@@ -1,0 +1,36 @@
+{
+    "name": "testSaveOfficeAggregate",
+    "input": {
+        "officeCode": "100",
+        "name": "San Francisco",
+        "address": {
+            "city": "San Francisco",
+            "phone": "312-243-0567",
+            "address": "123 Main st.",
+            "state": "CA",
+            "country": "USA",
+            "postalCode": "81000"
+        },
+        "manager": {
+            "employeeNumber": 1,
+            "firstName": "John",
+            "lastName": "Smith",
+            "jobTitle": "Office Manager",
+            "extension": "1234",
+            "email": ""
+        },
+        "employees": [
+            {
+                "employeeNumber": 2,
+                "firstName": "John",
+                "lastName": "Smith",
+                "jobTitle": "Developer",
+                "extension": "1234",
+                "email": "",
+                "reportsTo": 1
+            }
+        ]
+    },
+    "operation": "save",
+    "comments": "Modify the example test name and input."
+}

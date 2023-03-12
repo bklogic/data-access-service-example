@@ -1,0 +1,7 @@
+{
+    "name": "testDeleteCustomer",
+    "input": {
+        "customerNumber": 171
+    },
+    "comments": "Modify the example test name and input."
+}

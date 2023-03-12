@@ -1,0 +1,11 @@
+{
+    "name": "testUpdateCustomerAddress",
+    "input": {
+        "customerNumber": 124,
+        "address": "5677 Strong St.",
+        "city": "San Rafael",
+        "state": "CA",
+        "country": "USA"
+    },
+    "comments": "Modify the example test name and input."
+}

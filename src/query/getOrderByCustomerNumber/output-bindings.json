@@ -1,0 +1,66 @@
+[
+    {
+        "field": "..orderNumber",
+        "column": "orderNumber"
+    },
+    {
+        "field": "..orderDate",
+        "column": "orderDate"
+    },
+    {
+        "field": "..customer.customerNumber",
+        "column": "customerNumber"
+    },
+    {
+        "field": "..customer.customerName",
+        "column": "customerName"
+    },
+    {
+        "field": "..customer.icon",
+        "column": "icon"
+    },
+    {
+        "field": "..customer.address.addressLine1",
+        "column": "addressLine1"
+    },
+    {
+        "field": "..customer.address.addressLine2",
+        "column": "addressLine2"
+    },
+    {
+        "field": "..customer.address.city",
+        "column": "city"
+    },
+    {
+        "field": "..customer.address.state",
+        "column": "state"
+    },
+    {
+        "field": "..customer.address.country",
+        "column": "country"
+    },
+    {
+        "field": "..customer.address.postalCode",
+        "column": "postalCode"
+    },
+    {
+        "field": "..lines..orderLineNumber",
+        "column": "orderLineNumber"
+    },
+    {
+        "field": "..lines..productCode",
+        "column": "productCode"
+    },
+    {
+        "field": "..lines..productName",
+        "column": "productName"
+    },
+    {
+        "field": "..lines..qty",
+        "column": "qty"
+    },
+    {
+        "field": "..lines..price",
+        "column": "icon"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "name": "testCloneProductLine",
+    "input": {
+        "sourceProductLineName": "Classic Cars",
+        "targetProductLineName": "Cloned Classic Cars",
+        "productCodePrefix": "N-"
+    },
+    "comments": "Modify the example test name and input."
+}

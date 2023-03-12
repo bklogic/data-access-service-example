@@ -1,0 +1,14 @@
+[
+    {
+        "parameter": "targetProductLineName",
+        "field": ".targetProductLineName"
+    },
+    {
+        "parameter": "productCodePrefix",
+        "field": ".productCodePrefix"
+    },
+    {
+        "parameter": "sourceProductLineName",
+        "field": ".sourceProductLineName"
+    }
+]

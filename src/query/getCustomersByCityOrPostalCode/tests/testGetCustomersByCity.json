@@ -1,0 +1,7 @@
+{
+    "name": "testGetCustomersByCity",
+    "input": {
+        "city": "San Francisco"
+    },
+    "comments": "Modify the example test name and input."
+}

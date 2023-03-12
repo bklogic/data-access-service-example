@@ -1,0 +1,10 @@
+[
+    {
+        "parameter": "productLine",
+        "field": ".productLine"
+    },
+    {
+        "parameter": "productName",
+        "field": ".productName"
+    }
+]

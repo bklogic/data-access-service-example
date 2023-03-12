@@ -1,0 +1,8 @@
+{
+    "name": "testReadOfficeAggregate",
+    "input": {
+        "officeCode": "100"
+    },
+    "operation": "read",
+    "comments": "Modify the example test name and input."
+}

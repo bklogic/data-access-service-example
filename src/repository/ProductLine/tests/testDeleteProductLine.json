@@ -1,0 +1,8 @@
+{
+    "name": "testDeleteProductLine",
+    "input": {
+        "productLine": "Classic Cars"
+    },
+    "operation": "delete",
+    "comments": "Modify the example test name and input."
+}

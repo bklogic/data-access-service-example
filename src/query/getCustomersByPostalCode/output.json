@@ -1,0 +1,14 @@
+[{
+    "customerNumber": 1,
+    "customerName": "Land of Toys Inc.",
+    "contact": {
+        "firstName": "Joe",
+        "LastName": "Williamson",
+        "phone": "(171) 555-2282"
+    },
+    "address": {
+        "city": "NYC",
+        "state": "NY",
+        "country": "USA"
+    }
+}]

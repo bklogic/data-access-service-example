@@ -1,0 +1,46 @@
+[
+    {
+        "field": ".productLine",
+        "column": "productLine"
+    },
+    {
+        "field": ".description",
+        "column": "textDescription"
+    },
+    {
+        "field": ".image",
+        "column": "image"
+    },
+    {
+        "field": ".products..productCode",
+        "column": "productCode"
+    },
+    {
+        "field": ".products..productName",
+        "column": "productName"
+    },
+    {
+        "field": ".products..productVendor",
+        "column": "productVendor"
+    },
+    {
+        "field": ".products..productDescription",
+        "column": "productDescription"
+    },
+    {
+        "field": ".products..productScale",
+        "column": "productScale"
+    },
+    {
+        "field": ".products..quantityInStock",
+        "column": "quantityInStock"
+    },
+    {
+        "field": ".products..buyPrice",
+        "column": "buyPrice"
+    },
+    {
+        "field": ".products..MSRP",
+        "column": "MSRP"
+    }
+]

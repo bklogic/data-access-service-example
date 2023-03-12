@@ -1,0 +1,20 @@
+[
+    {
+        "name": "productlines",
+        "alias": "pl",
+        "object": ".",
+        "rootTable": true,
+        "mainTable": true,
+        "operationIndicator": null,
+        "columns": "./productlines.pl.columns.json"
+    },
+    {
+        "name": "products",
+        "alias": "p",
+        "object": ".products..",
+        "rootTable": false,
+        "mainTable": true,
+        "operationIndicator": null,
+        "columns": "./products.p.columns.json"
+    }
+]

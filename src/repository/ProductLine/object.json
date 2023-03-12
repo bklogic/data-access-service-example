@@ -1,0 +1,15 @@
+{
+    "productLine": "Classic Cars",
+    "description": "Land of Toys Inc.",
+    "image": "base64YmFzZTY0ZW5jb2RlZA==",
+    "products": [{
+        "productCode": "S12_1099",
+        "productName": "1968 Ford Mustang",
+        "productVendor": "Motor City Art Classics",
+        "productDescription": "Hood, doors and trunk all open.",
+        "productScale": "1:100",
+        "quantityInStock": 100,
+        "buyPrice": "15.45",
+        "MSRP": "46.00"
+    }]
+}

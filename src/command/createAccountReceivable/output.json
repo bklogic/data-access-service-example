@@ -1,0 +1,12 @@
+[
+    {
+        "receivableNumber": 12,
+        "receivableDate": "S10_4757",
+        "customerNumber": 100,
+        "receivableAmount": 123.45,
+        "details": [{
+            "orderNumber": 1,
+            "orderAmount": 34.56
+        }]
+    }
+]

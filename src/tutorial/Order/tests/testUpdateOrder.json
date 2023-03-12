@@ -1,0 +1,21 @@
+{
+    "name": "testUpdateOrder",
+    "input": {
+        "orderNumber": 10101,
+        "orderDate": "2003-01-09T00:00:00.000Z",
+        "requiredDate": "2003-01-09T00:00:00.000Z",
+        "shippedDate": "2003-01-09T00:00:00.000Z",
+        "status": "Shipped",
+        "customerNumber": 128,
+        "orderLines": [
+            {
+                "orderLineNumber": 1,
+                "productCode": "S18_2795",
+                "quantityOrdered": 26,
+                "priceEach": 167.06
+            }
+        ]
+    },
+    "operation": "update",
+    "comments": "Modify the example test name and input."
+}

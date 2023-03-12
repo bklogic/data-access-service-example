@@ -1,0 +1,62 @@
+[
+    {
+        "field": ".orderNumber",
+        "column": "orderNumber"
+    },
+    {
+        "field": ".orderDate",
+        "column": "orderDate"
+    },
+    {
+        "field": ".customerNumber",
+        "column": "customerNumber"
+    },
+    {
+        "field": ".customerName",
+        "column": "customerName"
+    },
+    {
+        "field": ".requiredDate",
+        "column": "requiredDate"
+    },
+    {
+        "field": ".shippedDate",
+        "column": "shippedDate"
+    },
+    {
+        "field": ".status",
+        "column": "status"
+    },
+    {
+        "field": ".comments",
+        "column": "comments"
+    },
+    {
+        "field": ".total",
+        "column": "total"
+    },
+    {
+        "field": ".lines..orderLineNumber",
+        "column": "orderLineNumber"
+    },
+    {
+        "field": ".lines..productCode",
+        "column": "productCode"
+    },
+    {
+        "field": ".lines..productName",
+        "column": "productName"
+    },
+    {
+        "field": ".lines..qty",
+        "column": "qty"
+    },
+    {
+        "field": ".lines..price",
+        "column": "priceEach"
+    },
+    {
+        "field": ".lines..subtotal",
+        "column": "subtotal"
+    }
+]

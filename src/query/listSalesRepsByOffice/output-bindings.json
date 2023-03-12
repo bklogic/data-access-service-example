@@ -1,0 +1,74 @@
+[
+    {
+        "field": "..officeCode",
+        "column": "officeCode"
+    },
+    {
+        "field": "..city",
+        "column": "city"
+    },
+    {
+        "field": "..country",
+        "column": "country"
+    },
+    {
+        "field": "..salesReps..employeeNumber",
+        "column": "employeeNumber"
+    },
+    {
+        "field": "..salesReps..lastName",
+        "column": "lastName"
+    },
+    {
+        "field": "..salesReps..firstName",
+        "column": "firstName"
+    },
+    {
+        "field": "..salesReps..customers..customerNumber",
+        "column": "customerNumber"
+    },
+    {
+        "field": "..salesReps..customers..customerName",
+        "column": "customerName"
+    },
+    {
+        "field": "..salesReps..customers..contact.firstName",
+        "column": "contactFirstName"
+    },
+    {
+        "field": "..salesReps..customers..contact.LastName",
+        "column": "contactLastName"
+    },
+    {
+        "field": "..salesReps..customers..contact.phone",
+        "column": "phone"
+    },
+    {
+        "field": "..salesReps..customers..address.city",
+        "column": "city"
+    },
+    {
+        "field": "..salesReps..customers..address.state",
+        "column": "city"
+    },
+    {
+        "field": "..salesReps..customers..address.country",
+        "column": "country"
+    },
+    {
+        "field": "..salesReps..sales..productCode",
+        "column": "productCode"
+    },
+    {
+        "field": "..salesReps..sales..productName",
+        "column": "productName"
+    },
+    {
+        "field": "..salesReps..sales..qty",
+        "column": "qty"
+    },
+    {
+        "field": "..salesReps..sales..dollarAmount",
+        "column": "dollarAmount"
+    }
+]

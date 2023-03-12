@@ -1,0 +1,15 @@
+{
+    "name": "ProductLine",
+    "type": "crud",
+    "description": "crud service. Don't modify this file!",
+    "object": "./object.json",
+    "read": {
+        "input": "./read/input.json",
+        "query": "./read/query.sql",
+        "inputBinding": "./read/input-binding.json",
+        "outputBinding": "./read/output-binding.json"
+    },
+    "write": {
+        "tables": "./write/tables.json"
+    }
+}

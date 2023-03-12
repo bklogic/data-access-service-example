@@ -1,0 +1,18 @@
+[
+    {
+        "parameter": "orderNumber",
+        "field": ".orderNumber"
+    },
+    {
+        "parameter": "endDate",
+        "field": ".endDate"
+    },
+    {
+        "parameter": "customerNumber",
+        "field": ".customerNumber"
+    },
+    {
+        "parameter": "startDate",
+        "field": ".startDate"
+    }
+]

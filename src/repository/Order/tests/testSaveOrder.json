@@ -1,0 +1,26 @@
+{
+    "name": "testSaveOrder",
+    "input": {
+        "orderNumber": 1,
+        "orderDate": "2020-12-10T00:00:00.000",
+        "customerNumber": 103,
+        "customerName": "John",
+        "requiredDate": "2020-12-10T00:00:00.000",
+        "shippedDate": "2020-12-10T00:00:00.000",
+        "status": "shipped",
+        "comments": "shipped on time",
+        "total": "345.60",
+        "lines": [
+            {
+                "orderLineNumber": 10,
+                "productCode": "S12_1099",
+                "productName": "1968 Ford Mustang",
+                "qty": 2,
+                "price": 35.45,
+                "subtotal": 70.9
+            }
+        ]
+    },
+    "operation": "save",
+    "comments": "Modify the example test name and input."
+}

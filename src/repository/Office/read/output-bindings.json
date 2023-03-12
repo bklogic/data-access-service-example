@@ -1,0 +1,34 @@
+[
+    {
+        "field": ".officeCode",
+        "column": "officeCode"
+    },
+    {
+        "field": ".address",
+        "column": "address"
+    },
+    {
+        "field": ".phone",
+        "column": "phone"
+    },
+    {
+        "field": ".city",
+        "column": "city"
+    },
+    {
+        "field": ".state",
+        "column": "state"
+    },
+    {
+        "field": ".country",
+        "column": "country"
+    },
+    {
+        "field": ".postalCode",
+        "column": "postalCode"
+    },
+    {
+        "field": ".territory",
+        "column": "territory"
+    }
+]

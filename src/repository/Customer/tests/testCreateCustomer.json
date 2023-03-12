@@ -1,0 +1,21 @@
+{
+    "name": "testCreateCustomer",
+    "input": {
+        "customerNumber": 1,
+        "customerName": "Land of Toys Inc.",
+        "contact": {
+            "firstName": "Joe",
+            "LastName": "Williamson",
+            "phone": "(171) 555-2282"
+        },
+        "address": {
+            "addressLine1": "5557 North Pendale Street",
+            "addressLine2": "",
+            "city": "NYC",
+            "state": "NY",
+            "country": "USA"
+        }
+    },
+    "operation": "create",
+    "comments": "Modify the example test name and input."
+}

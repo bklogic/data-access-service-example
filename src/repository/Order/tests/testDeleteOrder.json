@@ -1,0 +1,8 @@
+{
+    "name": "testDeleteOrder",
+    "input": {
+        "orderNumber": 1
+    },
+    "operation": "delete",
+    "comments": "Modify the example test name and input."
+}

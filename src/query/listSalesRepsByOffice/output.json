@@ -1,0 +1,30 @@
+[{
+    "officeCode": 2,
+    "city": "NYC",
+    "country": "USA",
+    "salesReps": [{
+        "employeeNumber": 1,
+        "lastName": "John",
+        "firstName": "Smith",
+        "customers": [{
+            "customerNumber": 1,
+            "customerName": "Land of Toys Inc.",
+            "contact": {
+                "firstName": "Joe",
+                "LastName": "Williamson",
+                "phone": "(171) 555-2282"
+            },
+            "address": {
+                "city": "NYC",
+                "state": "NY",
+                "country": "USA"
+            }
+        }],
+        "sales": [{
+            "productCode": 1,
+            "productName": "1968 Ford Mustang",
+            "qty": 100,
+            "dollarAmount": 12345.67
+        }]
+    }]
+}]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "orders",
+        "alias": "ord",
+        "object": ".",
+        "rootTable": true,
+        "mainTable": true,
+        "operationIndicator": null,
+        "columns": "./orders.ord.columns.json"
+    },
+    {
+        "name": "orderdetails",
+        "alias": "od",
+        "object": ".orderLines..",
+        "rootTable": false,
+        "mainTable": true,
+        "operationIndicator": null,
+        "columns": "./orderdetails.od.columns.json"
+    }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "parameter": "productLines",
+        "field": ".productLines.."
+    }
+]
