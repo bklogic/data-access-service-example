@@ -29,12 +29,13 @@ CRUD service examples from `CRUD Service Deep Dive`.
 
 ## Clone and Deploy Application
 
-Follow the steps below to clone and deploy this application to a remote development workspace, 
+Follow the steps below to clone and deploy this application to a remote development workspace: 
 
 - Create a local workfolder on your machine
 - Clone this application in the work folder
 - Launch VS Code form the local folder
 - Request and connect to a remote workspace
+- Create and deploy a data source loaded with the `classicmodel` database
 - Deploy the application into the remote workspace
 
 ## Contribution
