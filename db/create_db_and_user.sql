@@ -6,8 +6,8 @@ CREATE DATABASE /*!32312 IF NOT EXISTS*/`basic` /*!40100 DEFAULT CHARACTER SET l
 DROP DATABASE IF EXISTS `classicmodels`; 
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`classicmodels` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
-# create user "backlogic"
-DROP USER IF EXISTS 'backlogic'@'%';
-CREATE USER 'backlogic'@'%' IDENTIFIED BY 'backlogic';
-GRANT ALL PRIVILEGES ON basic.* TO 'backlogic'@'%';
-GRANT ALL PRIVILEGES ON classicmodels.* TO 'backlogic'@'%';
+# create user "demo"
+DROP USER IF EXISTS 'demo'@'%';
+CREATE USER 'demo'@'%' IDENTIFIED BY 'demo';
+GRANT ALL PRIVILEGES ON basic.* TO 'demo'@'%';
+GRANT ALL PRIVILEGES ON classicmodels.* TO 'demo'@'%';
