@@ -1,6 +1,6 @@
 # Example Data Access Service
 
-An example data access application to showcase the various simple and complex query, SQL and CRUD services.
+An example data access application to showcase the various simple and complex query, SQL and repository services.
 
 ## Data Model
 
@@ -25,7 +25,7 @@ SQL service examples from `SQL Service Deep Dive`.
 
 ### `repository`
 
-CRUD service examples from `CRUD Service Deep Dive`.
+repository service examples from `Repository Service Deep Dive`.
 
 ## Clone and Deploy Application
 
