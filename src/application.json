@@ -1,5 +1,5 @@
 {
-    "name": "myApp",
+    "name": "example",
     "description": "application. Specify data source and optionally schema name.",
     "dbType": "mysql",
     "dataSource": "mydb",
