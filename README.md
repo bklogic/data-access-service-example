@@ -31,7 +31,7 @@ repository service examples from [Repository Service Deep Dive](https://www.back
 
 Follow the steps below to clone and deploy this application to a remote development workspace: 
 
-- Create a [Service Builder DevContainer](https://github.com/bklogic/service-builder-devcontainer) according to its GetStarted instruction.
+- Create a [Service Builder DevContainer](https://github.com/bklogic/service-builder-devcontainer) according to its Get Started instruction.
 - Clone this application in the work folder.
 - Create, test and deploy a data source according to [Service Builder Tutorial](https://www.backlogic.net/docs/getting-started/service-builder/#development).
 - Deploy the application.
